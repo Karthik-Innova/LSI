@@ -13,5 +13,6 @@ namespace LSI
         public string Temp { get; set; }
 
         public string Temp1 { get; set; }
+        public string Temp2 { get; set; }
     }
 }
