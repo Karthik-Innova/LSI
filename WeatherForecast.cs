@@ -11,5 +11,7 @@ namespace LSI
         public string? Summary { get; set; }
 
         public string Temp { get; set; }
+
+        public string Temp1 { get; set; }
     }
 }
