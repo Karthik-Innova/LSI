@@ -10,11 +10,9 @@ namespace LSI
 
         public string? Summary { get; set; }
 
-        public string windspeed { get; set; }
+        public string windspeed { get; set; }         
 
-        public string NewProperty { get; set; }
-
-        public string NewProperty234 { get; set; }
+       
 
     }
 }
