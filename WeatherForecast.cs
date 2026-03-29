@@ -16,7 +16,7 @@ namespace LSI
 
         public string NewProperty123 { get; set; }
 
-        public string NewProperty1232334 { get; set; }
+        public string NewProperty5 { get; set; }
 
     }
 }
